@@ -1,7 +1,0 @@
-.vfrc-header {
-    background-color: #3a3a3a;
-}
-
-.vfrc-button--secondary {
-    background-color: #FFA500;
-}
