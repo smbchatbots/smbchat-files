@@ -1,3 +1,3 @@
-# smbchat-styles
+# SMB Chat Files
 
-This repository is for all the stylesheets for SMBchatbots
+This repository is for SMB Chat Files
